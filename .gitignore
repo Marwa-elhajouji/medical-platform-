@@ -1,0 +1,13 @@
+
+# --- Frontend  ---
+
+front-end/node_modules/
+front-end/build/
+# --- Backend  ---
+
+back-end/.gradle/
+back-end/build/
+
+
+
+.github/workflows/*.tmp
